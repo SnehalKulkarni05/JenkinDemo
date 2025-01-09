@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+<listeners>
+<listener class-name="Automation.Listn_Inter"></listener>
+</listeners>
+  <test name="Test1" verbose="1" preserve-order="false">
+       <classes>
+    
+          <class name="TestCase.Demo1"/> 
+    
+        </classes>
+  </test>
+    
+  
+  </suite>
