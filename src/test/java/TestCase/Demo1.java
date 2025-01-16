@@ -8,5 +8,10 @@ public class Demo1 {
 	{
 		System.out.println("Hi");
 	}
+ @Test
+public void method()
+{
+Sytem.our.prinltl("updated");
+}
 
 }
